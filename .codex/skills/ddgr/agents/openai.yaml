@@ -1,0 +1,4 @@
+interface:
+  display_name: "ddgr"
+  short_description: "Use the local ddgr CLI for DuckDuckGo search"
+  default_prompt: "Use $ddgr to search DuckDuckGo from the local CLI and summarize the results."
